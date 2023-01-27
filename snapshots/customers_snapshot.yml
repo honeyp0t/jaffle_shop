@@ -1,0 +1,7 @@
+version: 2
+
+snapshots:
+  - name: customers_snapshot
+    ## Delete rows below!
+    meta:
+      breaks_inherited_props: true
